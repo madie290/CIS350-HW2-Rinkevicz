@@ -8,7 +8,8 @@
 - Experience in Python
 - Experience in HTML and CSS
 - Experience with Microsoft Access and Excel
-![Michael Scott's reaction to Toby](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmashable.com%2Farticle%2Fthe-office-michael-no-god-no-screaming-toby-meme&psig=AOvVaw1xCFuDzj4Sv26RgZ-XB58n&ust=1695836608117000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCKi2p-fpyIEDFQAAAAAdAAAAABAE)
+![Michael Scott's reaction to Toby](https://helios-i.mashable.com/imagery/articles/05y5eGz02le19JXrHwiU1TB/hero-image.fill.size_1200x1200.v1626877109.png)https://helios-i.mashable.com/imagery/articles/05y5eGz02le19JXrHwiU1TB/hero-image.fill.size_1200x1200.v1626877109.png)
+
 
 
 
